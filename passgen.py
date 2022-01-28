@@ -73,16 +73,6 @@ def pass_gen():
     print('-' *40) 
     print("\nYour Password is:")   
     print_green("".join(password))
-
-    #ADD: SAVE TO FILE FUNCTIONALITY
-    #save_file = input("\nDo you want to save a text file with your password? y/[n]:\n>>>")
-    #if save_file in ('y', 'Y'):
-    #    print_red("\nWarning: If using existing filename, contents will be overwritten!\n") #add append funcionality in future
-    #    save_file_name = open("~/Desktop/" + input("Enter name of file to be placed on '~/Desktop'...(Syntax:'filename.txt'):\n>>>"))
-    #    save_file_name.write(password)    
-    #    print(save_file_name)
-    #else:
-    #    print("Have a nice day")
     
 
 pass_gen()

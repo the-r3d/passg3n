@@ -1,7 +1,7 @@
 # passg3n
 Simple CLI password generator in Python.
 
-Dual purpose program:
+Dual purpose project:
   1) Continued leearning/ practical application of learning Python
   2) Generate random passwords for continued secure authentication
 
